@@ -1,0 +1,7 @@
+</> gitignore
+# Terraform working Directory 
+**/.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
