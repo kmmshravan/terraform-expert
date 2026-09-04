@@ -1,0 +1,6 @@
+environment         = "dev"
+location            = "canadacentral"
+resource_group_name = "day6-rg"
+account-tier        = "Standard"
+account-replication = "LRS"
+storage-name = "strg87modtst"
